@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   templateUrl: './hello-world.html',
 })
 export class HelloWorld {
-
+  propsInAngular = "Props in angular"
 }
